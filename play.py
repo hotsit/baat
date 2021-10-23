@@ -1,3 +1,3 @@
 
 def movie():
-  gg
+  print("gg")
